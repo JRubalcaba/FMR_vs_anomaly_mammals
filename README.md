@@ -1,9 +1,5 @@
 # R CODE and DATABASE for the paper: "Metabolic responses of mammals to heat and cold waves vary across climates"
 
-Juan G. Rubalcaba, Marta Correas-Araus
-Department of Biodiversity, Ecology and Evolution, Faculty of Biological Sciences, Complutense University of Madrid
-Correspondence: jg.rubalcaba@gmail.com 
-
 Abstract
 
 Aim: Extreme temperature fluctuations are becoming more frequent under climate change, which may have an impact on the energy and water balance of organisms. Yet, the magnitude of these impacts and whether species from different climatic regions differ in their metabolic responses to cold and heat waves remain poorly understood. Here, we examine how short-term temperature fluctuations influence metabolic requirements of mammals across broad climatic gradients.
