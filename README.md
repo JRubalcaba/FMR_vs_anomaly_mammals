@@ -1,20 +1,17 @@
-# R CODE and DATABASE for the paper: "Metabolic responses of mammals to heat and cold waves vary across climates"
+# R CODE and DATABASE for the paper: "Metabolic responses of mammals to temperature anomalies vary across climates"
 
-Abstract
+Juan G. Rubalcaba*, Marta Correas-Araus
+Department of Biodiversity, Ecology and Evolution, Faculty of Biological Sciences, Complutense University of Madrid
+*e-mail: jg.rubalcaba@gmail.com 
 
-Aim: Extreme temperature fluctuations are becoming more frequent under climate change, which may have an impact on the energy and water balance of organisms. Yet, the magnitude of these impacts and whether species from different climatic regions differ in their metabolic responses to cold and heat waves remain poorly understood. Here, we examine how short-term temperature fluctuations influence metabolic requirements of mammals across broad climatic gradients.
-
+Aim: Extreme temperature fluctuations are becoming more frequent under climate change, altering the energy and water balance of organisms. Species from different climatic regions may differ in their metabolic responses to such temperature anomalies due to contrasting thermoregulatory adaptations. Here, we examine how short-term temperature anomalies influence metabolic requirements of mammals across broad climatic gradients.
 Location: Global.
-
 Time period: 1966 - 2007 
-
 Major taxa studied: Mammals
+Methods: We compiled field metabolic rate (FMR) data from the literature, including 371 individuals representing 41 mammal species worldwide. For each measurement, we extracted monthly mean ambient temperature at the time and location of FMR collection using historical weather data and quantified temperature anomalies relative to long-term monthly mean conditions. We modelled FMR as a function of temperature anomaly, long-term mean temperature, and their interaction.
+Results: Metabolic responses to temperature anomalies varied systematically across climatic regimes. Mammals from colder environments increased FMR during both negative (cold) and positive (heat) anomalies. In contrast, species from warmer environments showed increases in FMR during negative anomalies but no increase – or even decreases – in FMR during positive anomalies.
+Main conclusions: Mammalian metabolic responses to short-term temperature anomalies are climate dependent, likely reflecting divergent adaptations to local thermal regimes. These findings highlight the importance of considering climatic context when predicting the energy consequences of increasing thermal extremes under climate change.
 
-Methods: We compiled field metabolic rate (FMR) data from 390 individuals representing 41 mammal species worldwide. For each measurement, we extracted ambient temperature at the time and location of FMR collection using historical weather data and quantified temperature anomalies relative to long-term mean conditions. We modelled FMR as a function of temperature anomaly, long-term mean temperature, and their interaction.
-
-Results: Metabolic responses to temperature anomalies varied systematically across climatic regimes. Mammals from colder environments increased FMR during both negative (cold) and positive (heat) anomalies. In contrast, species from warmer regions showed stronger increases in FMR during negative anomalies but exhibited little change or even decreases in FMR during positive anomalies.
-
-Main conclusions: Mammalian metabolic responses to short-term temperature fluctuations are strongly climate dependent, likely reflecting divergent adaptations to local thermal regimes. These findings highlight the importance of considering climatic context when predicting the energetic consequences of increasing thermal extremes under climate change.
 
  # Data description (columns)
 "Class": Taxonomic classification (string)       
